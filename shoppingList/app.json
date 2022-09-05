@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "guessingNumberGame",
-    "slug": "guessingNumberGame",
+    "name": "shoppingList",
+    "slug": "shoppingList",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

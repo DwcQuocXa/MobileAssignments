@@ -1,5 +1,5 @@
 {
-  "name": "guessingnumbergame",
+  "name": "calculatorhistory",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -15,8 +15,7 @@
     "react-native": "0.69.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9",
-    "prettier": "2.7.1"
+    "@babel/core": "^7.12.9"
   },
   "private": true
 }
