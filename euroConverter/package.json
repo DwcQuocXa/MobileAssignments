@@ -1,5 +1,5 @@
 {
-  "name": "calculatorhistory",
+  "name": "euroconverter",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -9,14 +9,17 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/picker": "^1.8.1",
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-native": "0.69.5",
-    "expo-updates": "~0.14.5"
+    "react-native-input-select": "^0.18.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@types/react-native": "^0.70.1",
+    "typescript": "^4.6.3"
   },
   "private": true
 }
